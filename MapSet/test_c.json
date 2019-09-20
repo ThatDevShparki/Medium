@@ -1,0 +1,57 @@
+{
+    "_id": "5d8464970e3693b80488c96f",
+    "index": 9,
+    "guid": "d0468169-2b45-4044-8e76-ad91ca09c926",
+    "isActive": false,
+    "balance": "$1,483.32",
+    "picture": "http://placehold.it/32x32",
+    "age": 38,
+    "eyeColor": "green",
+    "name": {
+        "first": "Sheryl",
+        "last": "Newman"
+    },
+    "company": "TERAPRENE",
+    "email": "sheryl.newman@teraprene.ca",
+    "phone": "+1 (802) 461-2037",
+    "address": "412 Waldane Court, Elliston, Arizona, 543",
+    "about": "Deserunt et ex consectetur velit commodo do aute cupidatat id aute tempor sunt. Culpa amet minim eu officia nulla sunt culpa et. Lorem amet labore cillum in eu aute. Culpa ad in ex aute dolor aute ex. Pariatur do fugiat labore culpa reprehenderit reprehenderit exercitation et amet veniam sint voluptate tempor non. Do nisi nostrud aliqua ex esse fugiat magna aute. Anim proident aute fugiat dolor sit irure deserunt labore amet ipsum Lorem non.",
+    "registered": "Sunday, June 25, 2017 1:06 AM",
+    "latitude": "21.56445",
+    "longitude": "-146.090102",
+    "tags": [
+        "sunt",
+        "amet",
+        "minim",
+        "magna",
+        "cupidatat"
+    ],
+    "range": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+    ],
+    "friends": [
+        {
+            "id": 0,
+            "name": "Mcintyre Stephenson"
+        },
+        {
+            "id": 1,
+            "name": "Chandler Robertson"
+        },
+        {
+            "id": 2,
+            "name": "Shelby Madden"
+        }
+    ],
+    "greeting": "Hello, Sheryl! You have 10 unread messages.",
+    "favoriteFruit": "strawberry"
+}
